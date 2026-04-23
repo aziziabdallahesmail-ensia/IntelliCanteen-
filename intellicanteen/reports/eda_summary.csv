@@ -1,0 +1,16 @@
+Metric,Value
+Date range,2023-01-08 → 2026-12-14
+Calendar days covered,832
+Unique DOUs (canteens),66
+Meal service rows (master),"115,537"
+Demand NaN %,11.1%
+Zero-demand rows %,5.6%
+Avg breakfast demand,754
+Avg lunch demand,"2,515"
+Avg dinner demand,"2,129"
+Max single-service demand,"12,158"
+Unique menu items (all types),11062
+IQR outlier rows,2847
+Student share of total meals,86.2%
+Employee share of total meals,12.6%
+Doctoral share of total meals,0.8%
